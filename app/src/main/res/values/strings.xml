@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Рандомный зачет по физике</string>
+
+    <string name="change_number">изменить верхнюю грань</string>
+    <string name="start">Старт</string>
+    <string name="type_to_change_range">Нажми, чтобы изменить верхнюю грань диапазона</string>
+
+    <string name="dialog_change_number_message">Укажи верхнюю грань ♥</string>
+</resources>

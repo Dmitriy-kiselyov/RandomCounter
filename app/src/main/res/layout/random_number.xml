@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@drawable/gradient_background">
+
+    <ru.pussy_penetrator.randomcounter.RandomView
+        android:id="@+id/random_number_canvas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+        <!--android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"-->
+
+    <ru.pussy_penetrator.randomcounter.firework.FireworkLayout
+        android:id="@+id/random_number_firework"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</FrameLayout>
